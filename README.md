@@ -23,6 +23,10 @@ X: [@soligxbt](https://x.com/soligxbt)
 | Feb 2026 | Injective Peggy Bridge | Code4rena | 1 M | 22 |
 | Mar 2026 | [Revert Finance](https://cantina.xyz/code/efb6f308-f13b-4110-aff8-0d67181608dd) | Cantina | 1 M | 14 |
 
+## Bug bounty programs
+
+Hyperbridge, NEAR, RootsStock, SuperEarn (Runespear CCIP). Active on Sherlock, Cantina, Code4rena, HackenProof, and Immunefi.
+
 ## Focus
 
 EVM. DEXs, AMMs, lending, staking. Comfortable in Cosmos and bridge code.
