@@ -1,4 +1,4 @@
-# yonko
+# dr. alex
 
 Smart contract security researcher. EVM and Cosmos. Focus on DeFi primitives, staking, and cross-chain.
 
